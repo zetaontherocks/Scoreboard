@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background: #1F2937;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    height: 30px;
+    margin: auto;
+}
+
+.score{
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    font-family: 'Cursed Timer ULiL', sans-serif;    
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h2{
+    background: black;
+    padding: 15px 30px 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+button{
+    background: none;
+    border: 2px grey solid;
+    color: white;
+    margin-top: -20px;
+    padding-top: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;    
+
+}
+
+h3{
+    letter-spacing: 5px;
+    margin: 15px auto auto 10px;
+    text-align: center;
+    
+}
